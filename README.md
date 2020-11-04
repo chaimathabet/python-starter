@@ -21,5 +21,12 @@ HINT: Consider use range(#begin, #end) method
 
 B. Update this README.md with the insctruction(s) needed to run that script
 ```shell
-<REPLACE_WITH_YOUR_INSTRUCTION>
+
+
+    Open the terminal by searching for it in the dashboard or pressing Ctrl + Alt + T.
+
+    Navigate the terminal to the directory where the script is located using the cd command.
+
+    Type python3 script.py in the terminal to execute the script.
+ src of instructions :https://www.educative.io/edpresso/how-to-run-a-python-script-in-linux
 ```
